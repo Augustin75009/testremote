@@ -1,0 +1,174 @@
+# Translation of Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-22 17:25:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Q2W3 Fixed Widget for WordPress - Stable (latest release)\n"
+
+#: q2w3-fixed-widget.php:545
+msgid "Settings"
+msgstr "Réglages"
+
+#: q2w3-fixed-widget.php:526
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: q2w3-fixed-widget.php:522
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: q2w3-fixed-widget.php:508
+msgid "This ad management plugin provides many features to optimize your ads and to boost your conversions. It works perfectly with the Q2W3 Fixed Widget plugin."
+msgstr "Cette extension de gestion de publicité fournit de nombreuses fonctionnalités pour optimiser vos publicités et améliorer vos conversions. Elle fonctionne parfaitement avec l’extension Q2W3 Fixed Widget."
+
+#: q2w3-fixed-widget.php:480
+msgid " Works like the Disable Width option."
+msgstr "Fonctionne comme l’option « Désactiver la largeur »"
+
+#: q2w3-fixed-widget.php:474
+msgid "You need to provide the HTML tag ID here. The position of that HTML element will determine the margin-bottom value."
+msgstr "Vous devez fournir ici l’ID de balise HTML. La position de cet élément HTML déterminera la valeur de marge inférieure."
+
+#: q2w3-fixed-widget.php:454
+msgid " Note for users of caching plugins. Please, don’t forget to clear the cache after changing options."
+msgstr "Note pour les utilisateurs d’extension de mise en cache. Veuillez ne pas oublier de vider le cache après chaque modification des options."
+
+#: q2w3-fixed-widget.php:420
+msgid "Documentation and Support"
+msgstr "Documentation et support"
+
+#: q2w3-fixed-widget.php:418
+msgid "Recommended Integration"
+msgstr "Intégration recommandée"
+
+#. Description of the plugin
+msgid "Use the fixed widget plugin to create sticky widgets that stay in the visible screen area when the page is scrolled up or down and boost your conversions."
+msgstr "Utilisez l’extension Fixed Widget pour créer des widgets épinglés qui restent visibles dans la zone d’écran lorsque la page est défilée vers le haut ou le bas et décuplez vos conversions."
+
+#. Author of the plugin
+msgid "Thomas Maier, Max Bond"
+msgstr "Thomas Maier, Max Bond"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpadvancedads.com/fixed-widget-wordpress/"
+msgstr "https://wpadvancedads.com/fixed-widget-wordpress/"
+
+#: q2w3-fixed-widget.php:493
+msgid "If MutationObserver is disabled, the plugin will use the refresh interval to reflect page changes (version 4 behavior)"
+msgstr "Si MutationObserver est désactivé, l’extension utilisera l’intervalle de rafraîchissement pour refléter les modifications de page (comportement version 4)"
+
+#: q2w3-fixed-widget.php:493
+msgid "Disable MutationObserver:"
+msgstr "Désactiver MutationObserver :"
+
+#: q2w3-fixed-widget.php:480
+msgid "Disable Height:"
+msgstr "Désactiver la hauteur :"
+
+#: q2w3-fixed-widget.php:478
+msgid "Use this option to disable the plugin on portable devices. When the browser screen width is less than the specified value, the plugin will be disabled."
+msgstr "Utilisez cette option pour désactiver l’extension sur les appareils nomades. Lorsque la largeur d’écran du navigateur est inférieure à la valeur spécifiée, l’extension sera désactivée."
+
+#: q2w3-fixed-widget.php:478
+msgid "Disable Width:"
+msgstr "Désactiver la largeur :"
+
+#: q2w3-fixed-widget.php:476
+msgid "Used only for compatibility with browsers without MutationObserver API support. Set 0 to disable it completely."
+msgstr "Utilisé uniquement pour la compatibilité avec les navigateurs non compatibles avec l’API MutationObserver. Réglez à 0 pour le désactiver totalement."
+
+#. Plugin Name of the plugin
+msgid "Q2W3 Fixed Widget"
+msgstr "Q2W3 Fixed Widget"
+
+#: q2w3-fixed-widget.php:499
+msgid "Enable this option only if you have problems with other scroll oriented javascript code"
+msgstr "Activez cette option seulement si vous rencontrez des problèmes avec d'autre code Javascript impactant le défilement."
+
+#: q2w3-fixed-widget.php:499
+msgid "Use jQuery(window).load() hook:"
+msgstr "Utiliser le hook jQuery(window).load() :"
+
+#: q2w3-fixed-widget.php:497
+msgid "Enable this option for themes with a responsive sidebar"
+msgstr "Activez cette option pour les thèmes avec des colonnes latérales responsive"
+
+#: q2w3-fixed-widget.php:497
+msgid "Inherit widget width from the parent container:"
+msgstr "Hériter la largeur du widget de son conteneur parent :"
+
+#: q2w3-fixed-widget.php:495
+msgid "Enable this option for debug purposes (frontend problems and etc.)"
+msgstr "Activez cette option pour débogguer (problèmes dans l’interface publique par ex.)"
+
+#: q2w3-fixed-widget.php:495
+msgid "Enable the plugin for logged-in users only:"
+msgstr "Activer l’extension uniquement pour les utilisateurs connectés :"
+
+#: q2w3-fixed-widget.php:491
+msgid "Auto fix widget ID:"
+msgstr "Correctif automatique de l’ID du widget :"
+
+#: q2w3-fixed-widget.php:486
+msgid "Custom HTML IDs (each one on a new line):"
+msgstr "ID HTML personnalisés (chacun sur une nouvelle ligne) :"
+
+#: q2w3-fixed-widget.php:476
+msgid "milliseconds"
+msgstr "millisecondes"
+
+#: q2w3-fixed-widget.php:476
+msgid "Refresh interval:"
+msgstr "Intervale de rafraîchissement :"
+
+#: q2w3-fixed-widget.php:474
+msgid "Stop ID:"
+msgstr "ID de stop :"
+
+#: q2w3-fixed-widget.php:472
+msgid "Margin Bottom:"
+msgstr "Marge externe vers le bas :"
+
+#: q2w3-fixed-widget.php:470 q2w3-fixed-widget.php:472
+#: q2w3-fixed-widget.php:478 q2w3-fixed-widget.php:480
+msgid "px"
+msgstr "px"
+
+#: q2w3-fixed-widget.php:470
+msgid "Margin Top:"
+msgstr "Marge externe vers le haut :"
+
+#: q2w3-fixed-widget.php:456
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: q2w3-fixed-widget.php:428
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: q2w3-fixed-widget.php:416
+msgid "Custom IDs"
+msgstr "ID personnalisés"
+
+#: q2w3-fixed-widget.php:414
+msgid "Compatibility"
+msgstr "Compatibilité"
+
+#: q2w3-fixed-widget.php:412
+msgid "General Options"
+msgstr "Options générales"
+
+#: q2w3-fixed-widget.php:320 q2w3-fixed-widget.php:424
+msgid "Fixed Widget Options"
+msgstr "Options de Fixed Widget"
+
+#: q2w3-fixed-widget.php:286
+msgid "Fixed widget"
+msgstr "Fixed widget"
